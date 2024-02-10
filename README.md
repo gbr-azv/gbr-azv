@@ -31,6 +31,10 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
 ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)&nbsp;
 
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)&nbsp;
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)&nbsp;
+![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)&nbsp;
+
 ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)&nbsp;
 ![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg)&nbsp;
 
