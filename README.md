@@ -47,5 +47,6 @@
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)&nbsp;
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
 ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)&nbsp;
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
