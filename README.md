@@ -28,12 +28,11 @@
 
 ## Skills
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)&nbsp;
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
 ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)&nbsp;
 
-![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)&nbsp;
-![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)&nbsp;
-![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)&nbsp;
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)&nbsp;
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg)&nbsp;
 
 ![Express.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)&nbsp;
 ![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg)&nbsp;
@@ -41,12 +40,20 @@
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)&nbsp;
 ![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)&nbsp;
 
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)&nbsp;
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)&nbsp;
+![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg)&nbsp;
+
 <br>
 
 ## Studying In This Moment
-![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
-![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)&nbsp;
-![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg)&nbsp;
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)&nbsp;
+![Next.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)&nbsp;
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)&nbsp;
+
+![Tailwind CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)&nbsp;
+![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg)&nbsp;
+![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)&nbsp;
+![jQuery](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)&nbsp
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
