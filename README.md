@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/gabriel-pereira-azv" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" style="border-radius: 30px" target="_blank"></a> 
+<!--     <a href="https://www.linkedin.com/in/gabriel-pereira-azv" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" style="border-radius: 30px" target="_blank"></a>  -->
     <a href = "mailto:gabrielp.azevedo@outlook.com"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg" target="_blank"></a>
 </div>
 
